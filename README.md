@@ -31,5 +31,7 @@ FineCrop is developed on the python library SITS_cls autonamously built for time
 ```bash
 python tools/train.py
 ```
+
+## Thanks
 The author sincerely thanks <a href="https://github.com/Hengwei-Zhao96">Hengwei Zhao</a> for the construction of SITS_cls library, which is inspired by <a href="https://github.com/Hengwei-Zhao96/HOneCls">HOneCls</a>.
 
