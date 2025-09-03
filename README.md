@@ -1,7 +1,7 @@
 # FineCrop
 <h3 align="center">FineCrop: Mapping fine-grained crops using class-aware feature decoupling and parcel-aware class rebalancing with Sentinel-2 time series</h3>
 
-<h5 align="right">by <a href="https://ll0912.github.io/">Lei Lei</a>, <a href="https://jszy.whu.edu.cn/WangXinyu/zh_CN/index.htm">Xinyu Wang </a>,  <a href="http://rsidea.whu.edu.cn/">Yanfei Zhong</a></h5>, <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">Liangpei Zhang</a>
+<h5 align="right">by <a href="https://ll0912.github.io/">Lei Lei</a>, <a href="https://jszy.whu.edu.cn/WangXinyu/zh_CN/index.htm">Xinyu Wang </a>,  <a href="http://rsidea.whu.edu.cn/">Yanfei Zhong</a></h5>, <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">Liangpei Zhang</a></h5>
 
 ![introduction](img/FineCrop.jpg)
 
